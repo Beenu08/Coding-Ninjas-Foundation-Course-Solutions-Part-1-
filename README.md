@@ -1,1 +1,1 @@
-# Coding-Nonjas-Foundation-Course-Solutions
+# Coding-Ninjas-Foundation-Course-Solutions
